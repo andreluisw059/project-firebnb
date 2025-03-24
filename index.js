@@ -1,6 +1,7 @@
 const numeroParaApp = 8;
 let resultado = '';
 
+
 const parOuImpar = (numero) => numero % 2 === 0 ? 0 : 1;
 
 if (parOuImpar(numeroParaApp) === 0) {
